@@ -1,2 +1,3 @@
 # test01
-Testovací projekt
+Testovací projekt MQ
+
